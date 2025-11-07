@@ -7,7 +7,7 @@
       font-family: 'Poppins', sans-serif;
     }
     body {
-      background: linear-gradient(135deg, #e0f7fa, #fce4ec);
+      background: linear-gradient(135deg, #b9dee3, #fce4ec);
       color: #222;
       line-height: 1.6;
     }
@@ -46,7 +46,7 @@
       transition: color 0.3s;
     }
     nav ul li a:hover {
-      color: #00b4d8;
+      color: #22bfde;
     }
     section {
       min-height: 100vh;
